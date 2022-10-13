@@ -1,0 +1,3 @@
+mkdir -p node_modules
+mocha
+rmdir node_modules || true
